@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.icon {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	gap:27px;
+	margin-top: 20px;
+}  
+.icon i {
+	font-size: 38px;
+}
